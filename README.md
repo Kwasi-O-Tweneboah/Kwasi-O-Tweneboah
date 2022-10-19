@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kwasi-O-Tweneboah
+- 👋 Hi, I’m @Kwasi
 - 👀 I’m interested in Web app and software development
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on WordPress projects
+- 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me ...
 
 <!---
